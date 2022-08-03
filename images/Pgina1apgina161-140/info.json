@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 107,
+    "height" : 79
+  }, {
+    "width" : 214,
+    "height" : 157
+  }, {
+    "width" : 427,
+    "height" : 314
+  }, {
+    "width" : 853,
+    "height" : 628
+  }, {
+    "width" : 1705,
+    "height" : 1256
+  }, {
+    "width" : 3409,
+    "height" : 2512
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3409,
+  "@id" : "https://AnaisMazoue.github.io/DigitalExhbitionMadrid3306/images/Pgina1apgina161-140",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 2512
+}
