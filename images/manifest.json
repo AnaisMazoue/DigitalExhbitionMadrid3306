@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 3285,
+    "id" : "https://AnaisMazoue.github.io/DigitalExhbitionMadrid3306/images/Pgina1apgina161-019/canvas/",
+    "label" : {
+      "none" : [ "Pgina1apgina161-019" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://AnaisMazoue.github.io/DigitalExhbitionMadrid3306/images/Pgina1apgina161-019/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://AnaisMazoue.github.io/DigitalExhbitionMadrid3306/images/Pgina1apgina161-019/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 103,
+              "height" : 78
+            }, {
+              "width" : 206,
+              "height" : 156
+            }, {
+              "width" : 411,
+              "height" : 312
+            }, {
+              "width" : 822,
+              "height" : 623
+            }, {
+              "width" : 1643,
+              "height" : 1245
+            }, {
+              "width" : 3285,
+              "height" : 2490
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 3285,
+            "@id" : "https://AnaisMazoue.github.io/DigitalExhbitionMadrid3306/images/Pgina1apgina161-019",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 2490
+          } ],
+          "format" : "image/jpeg",
+          "width" : 3285,
+          "id" : "https://AnaisMazoue.github.io/DigitalExhbitionMadrid3306/images/Pgina1apgina161-019/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 2490
+        },
+        "target" : "https://AnaisMazoue.github.io/DigitalExhbitionMadrid3306/images/Pgina1apgina161-019/canvas/"
+      } ]
+    } ],
+    "height" : 2490
+  }, {
     "width" : 3264,
     "id" : "https://AnaisMazoue.github.io/DigitalExhbitionMadrid3306/images/Pgina1apgina161-013/canvas/",
     "label" : {
