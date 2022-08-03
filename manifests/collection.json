@@ -1,0 +1,13 @@
+{
+  "id" : "https://AnaisMazoue.github.io/DigitalExhbitionMadrid3306/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in AnaisMazoue/DigitalExhbitionMadrid3306 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://AnaisMazoue.github.io/DigitalExhbitionMadrid3306/manifests/madridmanifest.json",
+    "label" : "Madrid3306"
+  } ]
+}
