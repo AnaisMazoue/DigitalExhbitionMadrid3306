@@ -1,0 +1,413 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://AnaisMazoue.github.io/DigitalExhbitionMadrid3306/manifests/madridmanifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Madrid3306",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "",
+  "sequences" : [ {
+    "@id" : "http://8f5cd2e9-0829-49d4-a7cb-fff90d0edf97",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://9e504e2d-e537-413d-94aa-6eaa4e71751c",
+      "@type" : "sc:Canvas",
+      "label" : "f. 1r",
+      "height" : 2507,
+      "width" : 3264,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://b3c1b5db-dc28-405c-9b32-4bfa3901bd33",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionMadrid3306/images/Pgina1apgina161-013/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionMadrid3306/images/Pgina1apgina161-013",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2507,
+          "width" : 3264
+        },
+        "on" : "http://9e504e2d-e537-413d-94aa-6eaa4e71751c"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://9349c329-a418-48b3-a4fd-b35e75f614b5",
+      "@type" : "sc:Canvas",
+      "label" : "f. 8r",
+      "height" : 2490,
+      "width" : 3285,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://6ea7088d-883f-4ebd-be43-4dd9705ffdb0",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionMadrid3306/images/Pgina1apgina161-019/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionMadrid3306/images/Pgina1apgina161-019",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2490,
+          "width" : 3285
+        },
+        "on" : "http://9349c329-a418-48b3-a4fd-b35e75f614b5"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://c5cf1b93-22e2-4d78-af14-d62de56e07d5",
+      "@type" : "sc:Canvas",
+      "label" : "f. 11r",
+      "height" : 2507,
+      "width" : 3179,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://e4ae074b-f240-415b-8537-61aa808a0582",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionMadrid3306/images/Pgina1apgina161-022/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionMadrid3306/images/Pgina1apgina161-022",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2507,
+          "width" : 3179
+        },
+        "on" : "http://c5cf1b93-22e2-4d78-af14-d62de56e07d5"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://1aee8d69-7843-4cce-9c67-16a79fd85c93",
+      "@type" : "sc:Canvas",
+      "label" : "f. 34v",
+      "height" : 2507,
+      "width" : 3270,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://ee900798-6910-49d2-a406-77a9f967b0b1",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionMadrid3306/images/Pgina1apgina161-046/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionMadrid3306/images/Pgina1apgina161-046",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2507,
+          "width" : 3270
+        },
+        "on" : "http://1aee8d69-7843-4cce-9c67-16a79fd85c93"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://3967c9e6-17d2-41f5-94ba-5b0d558c5bed",
+      "@type" : "sc:Canvas",
+      "label" : "f. 73r",
+      "height" : 2507,
+      "width" : 3355,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://426fe720-5df3-4b57-a240-8c3724413e5b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionMadrid3306/images/Pgina1apgina161-084/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionMadrid3306/images/Pgina1apgina161-084",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2507,
+          "width" : 3355
+        },
+        "on" : "http://3967c9e6-17d2-41f5-94ba-5b0d558c5bed"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://c2ce960f-bd3b-46c0-bee3-d14f6f0c474c",
+      "@type" : "sc:Canvas",
+      "label" : "f. 98r",
+      "height" : 2507,
+      "width" : 3259,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c9e25a99-3bc7-481d-a960-e1f85330b599",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionMadrid3306/images/Pgina1apgina161-109/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionMadrid3306/images/Pgina1apgina161-109",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2507,
+          "width" : 3259
+        },
+        "on" : "http://c2ce960f-bd3b-46c0-bee3-d14f6f0c474c"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://d07e8272-7bad-4d26-b4f6-216c5c874a79",
+      "@type" : "sc:Canvas",
+      "label" : "f. 100r",
+      "height" : 2507,
+      "width" : 3264,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://aefeb650-f08d-48e7-8750-57dd516ffcf5",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionMadrid3306/images/Pgina1apgina161-111/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionMadrid3306/images/Pgina1apgina161-111",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2507,
+          "width" : 3264
+        },
+        "on" : "http://d07e8272-7bad-4d26-b4f6-216c5c874a79"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://ab749df7-8253-4350-8c86-c29360cf1236",
+      "@type" : "sc:Canvas",
+      "label" : "f. 129r",
+      "height" : 2512,
+      "width" : 3409,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://301c9990-be27-4e2e-9707-16b543d5f156",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionMadrid3306/images/Pgina1apgina161-140/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionMadrid3306/images/Pgina1apgina161-140",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2512,
+          "width" : 3409
+        },
+        "on" : "http://ab749df7-8253-4350-8c86-c29360cf1236"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://add7ba4f-304b-4cd4-8706-b0c2e9db9e95",
+      "@type" : "sc:Canvas",
+      "label" : "f. 172v",
+      "height" : 765,
+      "width" : 1024,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://d9cc23d2-3abb-471a-bc3c-b73792d8bd1b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionMadrid3306/images/Pgina162apgina3231024_22/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionMadrid3306/images/Pgina162apgina3231024_22",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 765,
+          "width" : 1024
+        },
+        "on" : "http://add7ba4f-304b-4cd4-8706-b0c2e9db9e95"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://197cdf53-d597-439e-b5f0-f114fc0cace5",
+      "@type" : "sc:Canvas",
+      "label" : "f. 174v",
+      "height" : 765,
+      "width" : 1024,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://507baa3c-00c1-4820-bf07-512773342992",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionMadrid3306/images/Pgina162apgina3231024_24/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionMadrid3306/images/Pgina162apgina3231024_24",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 765,
+          "width" : 1024
+        },
+        "on" : "http://197cdf53-d597-439e-b5f0-f114fc0cace5"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://1069d7a5-7e7c-49ff-9981-eaaae29438e2",
+      "@type" : "sc:Canvas",
+      "label" : "f. 210r",
+      "height" : 776,
+      "width" : 1024,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://5d381300-0587-47f9-bf4b-246730e60064",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionMadrid3306/images/Pgina162apgina3231024_59/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionMadrid3306/images/Pgina162apgina3231024_59",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 776,
+          "width" : 1024
+        },
+        "on" : "http://1069d7a5-7e7c-49ff-9981-eaaae29438e2"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://9d43d823-f130-4875-be6b-679b5ebc8bbe",
+      "@type" : "sc:Canvas",
+      "label" : "f. 245r",
+      "height" : 778,
+      "width" : 1024,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://6acf9b1e-2ce0-4e99-8930-367c7c50a8df",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionMadrid3306/images/Pgina162apgina3231024_94/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionMadrid3306/images/Pgina162apgina3231024_94",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 778,
+          "width" : 1024
+        },
+        "on" : "http://9d43d823-f130-4875-be6b-679b5ebc8bbe"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://efb5e755-52d8-4538-916f-296bf33c8f21",
+      "@type" : "sc:Canvas",
+      "label" : "f. 268v",
+      "height" : 766,
+      "width" : 1024,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://30e35971-21a6-4bab-9f88-853a573ffa03",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionMadrid3306/images/Pgina162apgina3231024_118/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionMadrid3306/images/Pgina162apgina3231024_118",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 766,
+          "width" : 1024
+        },
+        "on" : "http://efb5e755-52d8-4538-916f-296bf33c8f21"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://7751d23b-32ee-49ac-aa69-0529c806b3fd",
+      "@type" : "sc:Canvas",
+      "label" : "f. 279v",
+      "height" : 758,
+      "width" : 1024,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://e724a453-c08c-416c-9d86-bf0c41701072",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionMadrid3306/images/Pgina162apgina3231024_129/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionMadrid3306/images/Pgina162apgina3231024_129",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 758,
+          "width" : 1024
+        },
+        "on" : "http://7751d23b-32ee-49ac-aa69-0529c806b3fd"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://9ec8a070-9d52-427f-8ed2-dc51cf6264f6",
+      "@type" : "sc:Canvas",
+      "label" : "f. 297r",
+      "height" : 765,
+      "width" : 1024,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://e2d0200b-4cb7-47d9-a10f-f9b4c7df03cd",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://anaismazoue.github.io/DigitalExhbitionMadrid3306/images/Pgina162apgina3231024_146/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://anaismazoue.github.io/DigitalExhbitionMadrid3306/images/Pgina162apgina3231024_146",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 765,
+          "width" : 1024
+        },
+        "on" : "http://9ec8a070-9d52-427f-8ed2-dc51cf6264f6"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
